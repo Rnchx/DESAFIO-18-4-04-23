@@ -1,0 +1,23 @@
+body{
+    
+    background-color: cadetblue;
+}
+main{
+    background-color: burlywood;
+    height: auto;
+    text-align: center;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+input{
+    box-shadow: 3px 3px cadetblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+button{
+    box-shadow: 3px 3px cadetblue;
+    color: black;
+}
