@@ -1,6 +1,8 @@
 body{
     
     background-color: cadetblue;
+    display: flex;
+    flex-direction:column ;
 }
 main{
     background-color: burlywood;
@@ -9,15 +11,19 @@ main{
 }
 h2{
     font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
 }
 p{
     font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
 }
 input{
     box-shadow: 3px 3px cadetblue;
     font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
 }
 button{
     box-shadow: 3px 3px cadetblue;
     color: black;
+    font-size: 30px;
 }
